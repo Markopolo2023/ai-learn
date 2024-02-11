@@ -5,6 +5,7 @@ ipython
 
 # for package maintenance/code cleanup
 black
+black[jupyter]
 flake8
 isort
 pre-commit
