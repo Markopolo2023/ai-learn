@@ -1,0 +1,15 @@
+# for jupyter notebook integration.
+# see https://anbasile.github.io/posts/2017-06-25-jupyter-venv/ for more details
+ipykernel
+ipython
+
+# for package maintenance/code cleanup
+black
+flake8
+isort
+pre-commit
+pylint
+
+# for ai / modeling
+matplotlib
+numpy

@@ -1,0 +1,9 @@
+
+# ignore compiled/built files
+*egg-info*
+.pytest_cache/*
+**/__pycache__/*
+
+# ignore images/data files
+*.db
+*.pdf
