@@ -7,3 +7,6 @@
 # ignore images/data files
 *.db
 *.pdf
+
+# Keep from my enviorment from being added to git
+env/*
